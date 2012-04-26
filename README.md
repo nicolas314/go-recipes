@@ -9,3 +9,19 @@ contribute if you feel so inclined.
 Code hereby placed in the Public Domain.
 
 Enjoy!
+
+generate-password.go
+    Simple password generation by picking random characters
+    among a given character set.
+
+ghash.go
+    Compute crypto hashes of files which names are provided
+    on the command-line.
+
+https-server.go
+    A primitive HTTP server that requires client-side authentication
+    and will echo the client-side Common Name
+
+serialize.go
+    How to serialize/de-serialize a map to JSON.
+
