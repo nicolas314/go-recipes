@@ -15,6 +15,10 @@ Enjoy!
   Simple password generation by picking random characters
   among a given character set.
 
+* gdes.go
+
+  Launch a set of known test vectors on 3DES
+
 * ghash.go
 
   Compute crypto hashes of files which names are provided
